@@ -1,0 +1,5 @@
+com\abdellah\colivraison\app\prod\common\validation\helper\ValidatorTest.class
+com\abdellah\colivraison\app\prod\core\service\cityService\CityServiceSaveTests.class
+com\abdellah\colivraison\app\prod\core\service\cityService\CityServiceFindAllTests.class
+com\abdellah\colivraison\app\prod\core\service\cityService\CityServiceFindByIdTests.class
+com\abdellah\colivraison\CoLivraisonApplicationTests.class

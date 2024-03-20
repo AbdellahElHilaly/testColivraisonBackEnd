@@ -1,0 +1,30 @@
+spring:
+  datasource:
+#    url: jdbc:postgresql://localhost:5432/CoLovraison
+#    url: jdbc:postgresql://host.docker.internal:5432/CoLovraison
+#    username: postgres
+#    password: '@16smp0140'
+    url: jdbc:postgresql://dpg-cn1m1hed3nmc73bof0k0-a/database_l3ce
+    username: database_l3ce_user
+    password: 8qC8CJn4BzfqJiMb1isDHjbPItkHLJLb
+
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        jdbc:
+          lob:
+            non_contextual_creation: true
+        temp:
+          use_jdbc_metadata_defaults: false
+    open-in-view: false
+
+jwt:
+  signing:
+    key: 413F4428472B4B6250655368566D5970337336763979244226452948404D6351
