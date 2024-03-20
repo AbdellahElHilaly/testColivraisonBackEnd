@@ -1,12 +1,14 @@
 spring:
   datasource:
-#    url: jdbc:postgresql://localhost:5432/CoLovraison
-#    url: jdbc:postgresql://host.docker.internal:5432/CoLovraison
-#    username: postgres
-#    password: '@16smp0140'
-    url: jdbc:postgresql://dpg-cn1m1hed3nmc73bof0k0-a/database_l3ce
+    #    url: jdbc:postgresql://localhost:5432/CoLovraison
+    #    url: jdbc:postgresql://host.docker.internal:5432/CoLovraison
+    #    username: postgres
+    #    password: '@16smp0140'
+
+    url: jdbc:postgresql://dpg-cn1m1hed3nmc73bof0k0-a.oregon-postgres.render.com/database_l3ce
     username: database_l3ce_user
     password: 8qC8CJn4BzfqJiMb1isDHjbPItkHLJLb
+
 
     driver-class-name: org.postgresql.Driver
 
