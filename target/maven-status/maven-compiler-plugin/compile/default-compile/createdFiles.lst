@@ -19,10 +19,12 @@ com\abdellah\colivraison\app\prod\core\database\model\fake\ColisPhoneFaker.class
 com\abdellah\colivraison\app\dev\fake\service\core\impl\FakeStoreCityServiceImpl.class
 com\abdellah\colivraison\security\rest\dto\response\JwtRefreshTokenResponse$JwtRefreshTokenResponseBuilder.class
 com\abdellah\colivraison\app\dev\fake\service\core\impl\FakeStatusServiceImpl.class
+com\abdellah\colivraison\app\prod\core\database\model\dto\response\VendorStatisticsResponse.class
 com\abdellah\colivraison\app\dev\fake\service\core\impl\FakePrivilegeServiceImpl.class
 com\abdellah\colivraison\app\prod\common\validation\custom\PasswordValidator.class
 com\abdellah\colivraison\security\rest\dto\response\LoginResponse.class
 com\abdellah\colivraison\app\dev\fake\service\core\impl\FakeRateServiceImpl.class
+com\abdellah\colivraison\app\prod\core\database\model\dto\response\VendorStatisticsResponse$VendorStatisticsResponseBuilder.class
 com\abdellah\colivraison\app\prod\core\database\model\fake\PrivilegeFaker.class
 com\abdellah\colivraison\app\prod\core\database\repository\RemarqueRepository.class
 com\abdellah\colivraison\security\rest\dto\response\LoginResponse$LoginResponseBuilder.class

@@ -2,6 +2,7 @@ C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\jav
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\prod\core\database\model\entity\Rate.java
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\prod\core\database\model\fake\CityFaker.java
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\prod\core\database\model\dto\response\ColisVendorResponse.java
+C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\prod\core\database\model\dto\response\VendorStatisticsResponse.java
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\utils\Const\SuperAdminEndPoints.java
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\dev\fake\service\core\impl\FakeCityServiceImpl.java
 C:\Users\Youcode\Documents\freelinc\colivraison\backend\CoLivraison\src\main\java\com\abdellah\colivraison\app\prod\core\database\model\fake\ZoneFaker.java
