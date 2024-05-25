@@ -4,9 +4,9 @@ spring:
 #    url: jdbc:postgresql://host.docker.internal:5432/CoLovraison
 #    username: postgres
 #    password: '@16smp0140'
-    url: jdbc:postgresql://dpg-cn1m1hed3nmc73bof0k0-a/database_l3ce
+    url: jdbc:postgresql://dpg-cp8u237109ks73a0mga0-a/database_l3ce_9fg6
     username: database_l3ce_user
-    password: 8qC8CJn4BzfqJiMb1isDHjbPItkHLJLb
+    password: f5YtyHeQN7XlVtmTa23WqvBe8vFeH4iK
 
     driver-class-name: org.postgresql.Driver
 
